@@ -1,0 +1,8 @@
+node -v
+npm -v
+java -version
+npm install -g react-native-cli
+npx react-native init AwesomeApp
+cd AwesomeApp
+npx react-native run-ios
+npx react-native run-android
